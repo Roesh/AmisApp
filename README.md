@@ -21,7 +21,7 @@ The names in the .txt file are in a specific order:
 History and Notes
 =
 
-This app evolved from a prototype of a game I created for my friends. The original game had 8 hardcoded images, each of which was a picture me and one of my friends from school. These images were the inspiration behind this improved version's name: Amis. Amis app includes several improvements over the first game: 
+This app evolved from a prototype of a game I created for my friends. The original game had 8 hardcoded images, each of which was a picture of me with one of my friends from school. These images were the inspiration behind this improved version's name: Amis. Amis app includes several improvements over the first game: 
 - UI options to quit, go to login screen, and view the animation of image without needing to complete the game
 - The ability to pull images from a website (for a time)
 - Android build (deprecated, worked based on the website)
