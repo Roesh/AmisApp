@@ -226,7 +226,7 @@ public class RoundTextChanger : MonoBehaviour {
             }// end if source is local
             else // if source is ONLINE:
             {                
-                string baseUrl = "http://roesh.000webhostapp.com/";                
+                string baseUrl = "http://198.74.57.59/publiccollection/";                
                 string url = baseUrl + um.userName + "/names.txt";
                 Debug.Log("accessing " + url);
                 StartCoroutine(getNamesAndImagesFromURL(url));                
@@ -290,7 +290,7 @@ public class RoundTextChanger : MonoBehaviour {
                 // Call the texture mod script and make it get textures from the web
                 for(int i = 0; i < 9; i++)
                 {
-                    string baseUrl = "http://roesh.000webhostapp.com/";
+                    string baseUrl = "http://198.74.57.59/publiccollection/";
                     tm.urls[i] = string.Concat(baseUrl, um.userName, "/", nameTextsk[i]);
                     //if (i == 0){ Debug.Log(string.Equals(tm.urls[i], "http://roesh.000webhostapp.com/Animals/Giraffee.jpg")); }
                     GameObject go  = null; 
