@@ -7,7 +7,7 @@ Access the build at http://198.74.57.59/AmisApp/
 
 Username "Animals" is a collection of pictures you can use. Coming soon: a webpage hosted on the same server to upload your own images publicly!
 
-Setup (Windows only)
+Setup (Windows)
 =
 
 - Download and extract the compressed build file
