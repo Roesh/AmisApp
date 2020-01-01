@@ -3,9 +3,9 @@ A 3D, match-picture-with-name game whose pictures and names are customizable
 
 Web build
 =
-Access the build at http://198.74.57.59/AmisApp/
+Access the build at https://roshan.page/AmisApp/
 
-Username "Animals" is a collection of pictures you can use. Coming soon: a webpage hosted on the same server to upload your own images publicly!
+Coming soon: a webpage hosted on the same server to upload your own images publicly!
 
 History and Notes
 =
