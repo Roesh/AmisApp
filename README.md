@@ -3,7 +3,7 @@ A 3D, match-picture-with-name game whose pictures and names are customizable
 
 Web build
 =
-Access the build at https://roshan.page/AmisApp/
+Access the build at https://roshan.page/static/AmisApp/
 
 Coming soon: a webpage hosted on the same server to upload your own images publicly!
 
